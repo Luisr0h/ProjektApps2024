@@ -1,0 +1,13 @@
+.container {
+    background-image: url(./bg-2.jpg);
+    width: 750px;
+    height: 551px;
+
+    display: flex;
+    */
+}
+
+p {
+    text-align: left;
+    padding: 30px;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+    text-align: justify;
+
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(218, 135, 26);
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(218, 135, 26)
+}
+
+h3 {
+    text-align: center;
+    background-color: rgb(218, 135, 26);
+}
+
+img {
+    align-items: center;
+}

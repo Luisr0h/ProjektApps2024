@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(191, 191, 207);
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 4rem;
+    margin: 0px;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+}
+
+.título {
+    font-weight: bold;
+    border-bottom: 2px solid white;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-top: 100px;
+}
+
+.texto {
+    padding-bottom: 100px;
+    border-bottom: 2px solid black;
+}
+
+.fecha {
+    width: 12.5%;
+    margin: auto;
+    font-size: 1.4rem;
+    background-color: gray;
+    color: white;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.fondoBlancoLetraRoja {
+    background-color: white;
+    color: red;
+}
+
+.subRojo {
+    border-bottom: 1px dashed red;
+    font-style: italic;
+    font-size: 1.3rem;
+}
+
+.letraAzul {
+    color: blue
+}

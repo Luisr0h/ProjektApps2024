@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(241, 184, 224);
+}
+
+.container {
+    width: 1400px;
+    margin: auto;
+}
+
+.bloquesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.bloque {
+    border: 2px dashed rgb(238, 114, 201);
+    width: 19%;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: left;
+    padding: 10%;
+    font-size: 20px;
+}
+
+span {
+    color: rgb(238, 114, 201);
+    float: left;
+    font-size: 2rem;
+    line-height: 20px;
+
+}
